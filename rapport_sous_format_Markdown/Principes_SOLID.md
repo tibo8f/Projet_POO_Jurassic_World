@@ -2,9 +2,9 @@
 
 **1er principe :** Single Responsibility Principle (SRP) 
 
-Nous avons respecté ce principe en séparant chaque fonctionnalité de l’écosystème en classe. Ainsi chaque classe a une responsabilité unique. 
+Nous avons respecté ce principe en séparant chaque fonctionnalité de l’écosystème en classes. Ainsi chaque classe a une responsabilité unique. 
 
-Par exemple, la classe « zone » est la seul classe à s’occuper de déterminer la zone et n’a aucune autre responsabilité. 
+Par exemple, la classe « zone » est la seule classe à s’occuper de déterminer la zone et n’a aucune autre responsabilité. 
 
 **2ème principe :** Liskov Substitution Principle (LSP)
 
