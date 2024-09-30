@@ -1,4 +1,4 @@
-# Projet_POO_Jurassic_World
+# Object-Oriented Game Development
 
 réalisé par Thibaut François (195195) et Hermans Jordan (195016)
 
